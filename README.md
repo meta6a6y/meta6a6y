@@ -1,4 +1,13 @@
-### Hi there 👋
+<body text:#228B22 font-family:Unicode>
+<h1 align="center">Hi there, I'm <a href="https://t.me/vlrriiii" target="_blank">Valeriia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">MUCTR student 🇷🇺</h3>
+
+<center><img src="[C:\Users\valer\OneDrive\Изображения\Saved Pictures\kit.jpg](https://i.pinimg.com/564x/96/f2/bf/96f2bfd4b2dda297d5351e29b4e60e85.jpg)" alt="kit for github"></center>
+<p ></p>
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **meta6a6y/meta6a6y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
