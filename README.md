@@ -6,4 +6,4 @@
 <p text:#228B22 font-family:Unicode>Have a nice day, котик!</p>
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?meta6a6y=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meta6a6y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
