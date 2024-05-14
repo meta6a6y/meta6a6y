@@ -3,7 +3,7 @@
 
 <h3 text-align: center;">ru MUCTR student</h3>
 
-<center><img src="[https://i.pinimg.com/564x/96/f2/bf/96f2bfd4b2dda297d5351e29b4e60e85.jpg](https://i.pinimg.com/736x/83/7c/20/837c2003591cb7e14745ebb356fc030a.jpg)" alt="kit for github"></center>
+<center><img src="https://i.pinimg.com/736x/83/7c/20/837c2003591cb7e14745ebb356fc030a.jpg" alt="kit for github"></center>
 <h2>Have a nice day, котик!</h2>
 
 <!---Для компактной версии-->
